@@ -1,2 +1,2 @@
 # web-profile
-my own static web
+my own static web;
